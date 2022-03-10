@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T14:24:34.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="I6q8DaolkksQz2tVbBbz" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T14:27:13.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="F5IkrCh4lEEMK96r_-lY" version="17.0.0" type="github">
   <diagram id="xf75cjcKGF7Ed7S_Ia3y" name="Page-1">
     <mxGraphModel dx="2447" dy="1406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -136,12 +136,13 @@
         <mxCell id="16KXvka3SfCtmEUfeH8i-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.014;entryY=0.52;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Lucida Console;fontSize=13;" edge="1" parent="1" source="16KXvka3SfCtmEUfeH8i-31" target="16KXvka3SfCtmEUfeH8i-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="16KXvka3SfCtmEUfeH8i-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.85;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Lucida Console;fontSize=20;" edge="1" parent="1" source="16KXvka3SfCtmEUfeH8i-31">
+        <mxCell id="16KXvka3SfCtmEUfeH8i-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.85;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Lucida Console;fontSize=20;startArrow=classic;startFill=0;entryX=0.603;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="16KXvka3SfCtmEUfeH8i-31" target="16KXvka3SfCtmEUfeH8i-65">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1060" y="290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="460" y="10" />
               <mxPoint x="1060" y="10" />
+              <mxPoint x="1060" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -228,7 +229,7 @@
           <mxGeometry x="648.34" y="100" width="53.33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="16KXvka3SfCtmEUfeH8i-65" value="Monitoring" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;sketch=1;swimlaneLine=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="300" width="180" height="160" as="geometry" />
+          <mxGeometry x="960" y="320" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="16KXvka3SfCtmEUfeH8i-66" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="16KXvka3SfCtmEUfeH8i-65">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -315,7 +316,7 @@
         <mxCell id="16KXvka3SfCtmEUfeH8i-94" value="" style="sketch=1;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.laptop;" vertex="1" parent="1">
           <mxGeometry x="624.35" y="230" width="101.31" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="16KXvka3SfCtmEUfeH8i-100" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;The analysis of selection is conducter locally and outputs a table with the scores of participants&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="16KXvka3SfCtmEUfeH8i-100" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;The analysis of selection is conducted locally and outputs a table with the scores of participants&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="190" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="16KXvka3SfCtmEUfeH8i-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.7;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=13;" edge="1" parent="1" source="16KXvka3SfCtmEUfeH8i-40" target="16KXvka3SfCtmEUfeH8i-31">
