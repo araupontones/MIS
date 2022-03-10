@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T14:27:13.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="F5IkrCh4lEEMK96r_-lY" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T14:28:07.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="uHJscSYpMQjkt2nW8OQG" version="17.0.0" type="github">
   <diagram id="xf75cjcKGF7Ed7S_Ia3y" name="Page-1">
     <mxGraphModel dx="2447" dy="1406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -304,7 +304,7 @@
         <mxCell id="16KXvka3SfCtmEUfeH8i-88" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Registration:Online mode&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;shadow=1;sketch=1;fontFamily=Lucida Console;" vertex="1" parent="1">
           <mxGeometry y="-10" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="16KXvka3SfCtmEUfeH8i-89" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Candidates register themselves online using a form of the MIS&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="16KXvka3SfCtmEUfeH8i-89" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Candidates register themselves via online forms of the MIS&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="170" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="16KXvka3SfCtmEUfeH8i-93" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;The participants&#39; data is used as the input for creating lists, tests, etc.&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;" vertex="1" parent="1">
